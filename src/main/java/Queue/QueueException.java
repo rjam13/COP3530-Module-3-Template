@@ -1,2 +1,7 @@
-package Queue;public class QueueException {
+package Queue;
+
+public class QueueException extends RuntimeException {
+    public QueueException(String s) {
+        super(s);
+    }
 }

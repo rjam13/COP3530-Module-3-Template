@@ -1,2 +1,4 @@
-package BSTtest;public class TestBST {
+package TestBST;
+
+public class TestBST {
 }
