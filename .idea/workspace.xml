@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d54462e4-7f15-4dfe-9fd6-6f0a2ef362c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BST/BSTInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BST/BSTInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BST/BSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BST/BSTNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BST/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BST/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/List/ListIndexOutOfBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/List/ListIndexOutOfBoundsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/List/ListInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/List/ListInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/List/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/List/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/QueueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/QueueException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/QueueInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/QueueInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestBST/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestBST/TestBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BinarySearchTreeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
